@@ -16,6 +16,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=joeel561&icon=6&color=11)](https://visitcount.itsvg.in)
-
 [![](https://visitcount.itsvg.in/api?id=Chrismono&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
