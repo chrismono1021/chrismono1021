@@ -4,7 +4,7 @@
 
 # Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-chrismono Himawan-blue?color=9cf&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/chrismono1021-j-m-331336167/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-chrismonoHimawan-blue?color=9cf&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/chrismono1021-j-m-331336167/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-chrismono1021.ai-9cf?style=for-the-badge&logo=instagram)](https://instagram.com/chrismono1021.ai)
 [![Mail Badge](https://img.shields.io/badge/mail-chrismono1021-9cf?style=for-the-badge&logo=gmail)](mailto:chrismono1021@gmail.com)
 
