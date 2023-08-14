@@ -23,4 +23,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Chrismono&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Chrismono&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chrismono1021.chrismono1021)
