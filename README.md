@@ -22,9 +22,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Chrismono&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=chrismono1021.visitor-badge)]
-
 [![](https://visitcount.itsvg.in/api?id=Chrismono&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=chrismono1021.visitor-badge) -->
