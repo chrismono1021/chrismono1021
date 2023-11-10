@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I always thrive on challenge.<br>🌱 I’m currently learning more about modern stacks<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - chrismono1021@gmail.com<br>⚡ Fun fact: Spaces are better than tabs
+🔭 I always thrive on challenge.<br>🌱 I’m currently learning more about modern stacks<br>💬 Ask me about any tech-related stuff.<br>⚡ Fun fact: Spaces are better than tabs
 
 # Socials
 
